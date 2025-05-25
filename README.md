@@ -70,29 +70,25 @@ This project is a fullstack web application that helps users explore and analyze
 
 ### Built With
 
-* [![React][React.js]][React-url]
-* [![Express][Express.js]][Express-url]
-* [![Node][Node.js]][Node-url]
+[![React][React.js]][React-url]
+[![Express][Express.js]][Express-url]
+[![Node][Node.js]][Node-url]
+[![Vite][Vite]][Vite-url]
+[![Chakra-UI][Chakra]][Chakra-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
   ```
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at [Pokemon TCG](https://pokemontcg.io/)
 2. Clone the repo
@@ -105,8 +101,8 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 4. Enter your API in `.env`
    ```sh
-  export BASE_PATH=/myLoLytics
-  export POKEMON_TCG_API_KEY=
+   export BASE_PATH=/myLoLytics
+   export POKEMON_TCG_API_KEY=
    ```
 5. Dev
    ```sh
@@ -146,3 +142,5 @@ _Below is an example of how you can instruct your audience on installing and set
 [Node-url]: https://nodejs.org/en
 [Vite]: https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white
 [Vite-url]: https://vite.dev/
+[Chakra]: https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge
+[Chakra-url]: https://chakra-ui.com/
